@@ -1,1 +1,1 @@
-This is a readme from vagrant
+This is a vagrant readme file
